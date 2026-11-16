@@ -12214,16 +12214,6 @@
    "salary": 140000,
    "kpi": 35000,
    "nipRate": 320
-  },
-  {
-   "id": "e17943944580600",
-   "name": "Орловский",
-   "position": "Генеральный",
-   "department": "Генеральный Д",
-   "cfoId": "c01",
-   "salary": 300000,
-   "kpi": 500000,
-   "nipRate": 15000
   }
  ],
  "projects": [
@@ -12246,22 +12236,17 @@
     {
      "employeeId": "e13",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e14",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e15",
      "percentH1": 40,
-     "percentH2": 40
-    },
-    {
-     "employeeId": "e28",
-     "percentH1": 10,
-     "percentH2": 0
+     "percentH2": 50
     }
    ]
   },
@@ -12284,22 +12269,22 @@
     {
      "employeeId": "e13",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e14",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e15",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e16",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     }
    ]
   },
@@ -12322,27 +12307,27 @@
     {
      "employeeId": "e13",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e14",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e15",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e16",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e17",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     }
    ]
   },
@@ -12365,17 +12350,17 @@
     {
      "employeeId": "e13",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e14",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e15",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     }
    ]
   },
@@ -12398,22 +12383,22 @@
     {
      "employeeId": "e13",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e14",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e15",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e16",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     }
    ]
   },
@@ -12436,27 +12421,27 @@
     {
      "employeeId": "e13",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e14",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e15",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e16",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e17",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     }
    ]
   },
@@ -12479,17 +12464,17 @@
     {
      "employeeId": "e13",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e14",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e15",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     }
    ]
   },
@@ -12512,22 +12497,22 @@
     {
      "employeeId": "e13",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e14",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e15",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e16",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     }
    ]
   },
@@ -12550,27 +12535,27 @@
     {
      "employeeId": "e13",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e14",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e15",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e16",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e17",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     }
    ]
   },
@@ -12593,17 +12578,17 @@
     {
      "employeeId": "e13",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e14",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e15",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     }
    ]
   },
@@ -12626,22 +12611,22 @@
     {
      "employeeId": "e13",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e14",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e15",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e16",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     }
    ]
   },
@@ -12664,27 +12649,27 @@
     {
      "employeeId": "e13",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e14",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e15",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e16",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e17",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     }
    ]
   },
@@ -12707,17 +12692,17 @@
     {
      "employeeId": "e13",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e14",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e15",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     }
    ]
   },
@@ -12740,22 +12725,22 @@
     {
      "employeeId": "e13",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e14",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e15",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e16",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     }
    ]
   },
@@ -12778,27 +12763,27 @@
     {
      "employeeId": "e13",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e14",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e15",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e16",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e17",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     }
    ]
   },
@@ -12821,17 +12806,17 @@
     {
      "employeeId": "e13",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e14",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e15",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     }
    ]
   },
@@ -12854,22 +12839,22 @@
     {
      "employeeId": "e13",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e14",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e15",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e16",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     }
    ]
   },
@@ -12892,27 +12877,27 @@
     {
      "employeeId": "e13",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e14",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e15",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e16",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e17",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     }
    ]
   },
@@ -12935,17 +12920,17 @@
     {
      "employeeId": "e13",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e14",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e15",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     }
    ]
   },
@@ -12968,22 +12953,22 @@
     {
      "employeeId": "e13",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e14",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e15",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e16",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     }
    ]
   },
@@ -13006,27 +12991,27 @@
     {
      "employeeId": "e13",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e14",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e15",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e16",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e17",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     }
    ]
   },
@@ -13049,17 +13034,17 @@
     {
      "employeeId": "e13",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e14",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e15",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     }
    ]
   },
@@ -13082,22 +13067,22 @@
     {
      "employeeId": "e13",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e14",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e15",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e16",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     }
    ]
   },
@@ -13120,27 +13105,27 @@
     {
      "employeeId": "e13",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e14",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e15",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e16",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e17",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     }
    ]
   },
@@ -13163,17 +13148,17 @@
     {
      "employeeId": "e13",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e14",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e15",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     }
    ]
   },
@@ -13196,22 +13181,22 @@
     {
      "employeeId": "e13",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e14",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e15",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e16",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     }
    ]
   },
@@ -13234,27 +13219,27 @@
     {
      "employeeId": "e13",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e14",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e15",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e16",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e17",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     }
    ]
   },
@@ -13277,17 +13262,17 @@
     {
      "employeeId": "e13",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e14",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e15",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     }
    ]
   },
@@ -13310,22 +13295,22 @@
     {
      "employeeId": "e13",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e14",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e15",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e16",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     }
    ]
   },
@@ -13348,27 +13333,27 @@
     {
      "employeeId": "e13",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e14",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e15",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e16",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e17",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     }
    ]
   },
@@ -13391,17 +13376,17 @@
     {
      "employeeId": "e1",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e2",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e3",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     }
    ]
   },
@@ -13424,22 +13409,22 @@
     {
      "employeeId": "e1",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e2",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e3",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e4",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     }
    ]
   },
@@ -13462,27 +13447,27 @@
     {
      "employeeId": "e1",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e2",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e3",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e4",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e5",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     }
    ]
   },
@@ -13505,17 +13490,17 @@
     {
      "employeeId": "e9",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e10",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     },
     {
      "employeeId": "e11",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     }
    ]
   },
@@ -13538,22 +13523,22 @@
     {
      "employeeId": "e9",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e10",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e11",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     },
     {
      "employeeId": "e12",
      "percentH1": 25,
-     "percentH2": 25
+     "percentH2": 30
     }
    ]
   },
@@ -13576,27 +13561,27 @@
     {
      "employeeId": "e13",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e14",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e15",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e16",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     },
     {
      "employeeId": "e17",
      "percentH1": 15,
-     "percentH2": 15
+     "percentH2": 20
     }
    ]
   },
@@ -13619,17 +13604,17 @@
     {
      "employeeId": "e13",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e14",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     },
     {
      "employeeId": "e15",
      "percentH1": 40,
-     "percentH2": 40
+     "percentH2": 50
     }
    ]
   },
@@ -13652,22 +13637,22 @@
     {
      "employeeId": "e13",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e14",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e15",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     },
     {
      "employeeId": "e16",
      "percentH1": 30,
-     "percentH2": 30
+     "percentH2": 35
     }
    ]
   },
@@ -13690,27 +13675,27 @@
     {
      "employeeId": "e13",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e14",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e15",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e16",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     },
     {
      "employeeId": "e17",
      "percentH1": 20,
-     "percentH2": 20
+     "percentH2": 25
     }
    ]
   },
@@ -13732,18 +13717,18 @@
    "alloc": [
     {
      "employeeId": "e13",
-     "percentH1": 0,
-     "percentH2": 10
+     "percentH1": 10,
+     "percentH2": 15
     },
     {
      "employeeId": "e14",
-     "percentH1": 0,
-     "percentH2": 10
+     "percentH1": 10,
+     "percentH2": 15
     },
     {
      "employeeId": "e15",
      "percentH1": 10,
-     "percentH2": 10
+     "percentH2": 15
     }
    ]
   }
@@ -17256,6 +17241,6 @@
   }
  ],
  "selectedCfo": "all",
- "period": "m11",
- "savedAt": "2026-11-16T13:27:52.116Z"
+ "period": "2026-forecast",
+ "savedAt": "2026-11-16T13:29:14.993Z"
 }
