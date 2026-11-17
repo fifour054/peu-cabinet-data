@@ -13858,7 +13858,7 @@
     {
      "employeeId": "e22",
      "percentH1": 0,
-     "percentH2": 20
+     "percentH2": 30
     }
    ],
    "id": "pr1794922622441"
@@ -17372,6 +17372,6 @@
   }
  ],
  "selectedCfo": "all",
- "period": "2026-forecast",
- "savedAt": "2026-11-17T21:10:15.220Z"
+ "period": "m11",
+ "savedAt": "2026-11-17T21:14:03.032Z"
 }
