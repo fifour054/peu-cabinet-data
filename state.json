@@ -13851,7 +13851,7 @@
    "factRevenue": 0,
    "planDirect": 0,
    "factDirect": 0,
-   "overheadRate": 18,
+   "overheadRate": 0,
    "licensesSold": 0,
    "marginTarget": 55,
    "alloc": [
@@ -17373,5 +17373,5 @@
  ],
  "selectedCfo": "all",
  "period": "2026-forecast",
- "savedAt": "2026-11-17T15:28:05.150Z"
+ "savedAt": "2026-11-17T16:15:46.055Z"
 }
