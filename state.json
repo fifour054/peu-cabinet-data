@@ -13130,39 +13130,6 @@
    ]
   },
   {
-   "id": "pr25",
-   "code": "П-25",
-   "name": "Единый Личный Кабинет",
-   "cfoId": "c0308",
-   "stage": "Развитие",
-   "hasSalesPlan": true,
-   "hasBudget": true,
-   "planRevenue": 2578,
-   "factRevenue": 1205,
-   "planDirect": 0,
-   "factDirect": 0,
-   "overheadRate": 0,
-   "licensesSold": 67,
-   "marginTarget": 55,
-   "alloc": [
-    {
-     "employeeId": "e13",
-     "percentH1": 40,
-     "percentH2": 50
-    },
-    {
-     "employeeId": "e14",
-     "percentH1": 40,
-     "percentH2": 50
-    },
-    {
-     "employeeId": "e15",
-     "percentH1": 40,
-     "percentH2": 50
-    }
-   ]
-  },
-  {
    "id": "pr26",
    "code": "П-26",
    "name": "Краудфандинг",
@@ -17401,5 +17368,5 @@
  ],
  "selectedCfo": "all",
  "period": "2026-forecast",
- "savedAt": "2026-11-18T10:44:48.742Z"
+ "savedAt": "2026-11-18T20:11:45.549Z"
 }
