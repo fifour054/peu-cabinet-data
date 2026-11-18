@@ -13769,7 +13769,7 @@
   {
    "id": "pr179492250252742",
    "code": "П-43",
-   "name": "Стратегия",
+   "name": "Вебинар для участников экосистемы (Тендеры + совместная деятельность",
    "cfoId": "c01",
    "stage": "Запуск",
    "hasSalesPlan": true,
@@ -13786,7 +13786,7 @@
   {
    "id": "pr179492250252743",
    "code": "П-44",
-   "name": "Вектор",
+   "name": "Организация работы отдера развития экосистемы (ОР)",
    "cfoId": "c01",
    "stage": "Запуск",
    "hasSalesPlan": true,
@@ -13803,7 +13803,7 @@
   {
    "id": "pr179492250252744",
    "code": "П-45",
-   "name": "Новоселье",
+   "name": "Стратегия",
    "cfoId": "c01",
    "stage": "Запуск",
    "hasSalesPlan": true,
@@ -13820,7 +13820,7 @@
   {
    "id": "pr179492250252745",
    "code": "П-46",
-   "name": "Price Office",
+   "name": "Вектор",
    "cfoId": "c01",
    "stage": "Запуск",
    "hasSalesPlan": true,
@@ -13842,11 +13842,11 @@
   },
   {
    "code": "П-47",
-   "name": "Самоакселератор",
+   "name": "Новоселье",
    "cfoId": "c01",
    "stage": "Запуск",
    "hasSalesPlan": false,
-   "hasBudget": false,
+   "hasBudget": true,
    "planRevenue": 0,
    "factRevenue": 0,
    "planDirect": 0,
@@ -13854,14 +13854,42 @@
    "overheadRate": 0,
    "licensesSold": 0,
    "marginTarget": 55,
-   "alloc": [
-    {
-     "employeeId": "e22",
-     "percentH1": 0,
-     "percentH2": 30
-    }
-   ],
+   "alloc": [],
    "id": "pr1794922622441"
+  },
+  {
+   "id": "pr179499867572247",
+   "code": "П-48",
+   "name": "Price Office",
+   "cfoId": "c01",
+   "stage": "Запуск",
+   "hasSalesPlan": true,
+   "hasBudget": true,
+   "planRevenue": 0,
+   "factRevenue": 0,
+   "planDirect": 0,
+   "factDirect": 0,
+   "overheadRate": 0,
+   "licensesSold": 0,
+   "marginTarget": 55,
+   "alloc": []
+  },
+  {
+   "id": "pr179499867572248",
+   "code": "П-49",
+   "name": "Самоакселератор",
+   "cfoId": "c01",
+   "stage": "Запуск",
+   "hasSalesPlan": true,
+   "hasBudget": true,
+   "planRevenue": 0,
+   "factRevenue": 0,
+   "planDirect": 0,
+   "factDirect": 0,
+   "overheadRate": 0,
+   "licensesSold": 0,
+   "marginTarget": 55,
+   "alloc": []
   }
  ],
  "skus": [
@@ -17372,6 +17400,6 @@
   }
  ],
  "selectedCfo": "all",
- "period": "m11",
- "savedAt": "2026-11-17T21:14:03.032Z"
+ "period": "2026-forecast",
+ "savedAt": "2026-11-18T10:44:48.742Z"
 }
