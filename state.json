@@ -13857,6 +13857,23 @@
    "licensesSold": 0,
    "marginTarget": 55,
    "alloc": []
+  },
+  {
+   "code": "П-49",
+   "name": "Флоу Chain",
+   "cfoId": "c01",
+   "stage": "Запуск",
+   "hasSalesPlan": false,
+   "hasBudget": false,
+   "planRevenue": 0,
+   "factRevenue": 0,
+   "planDirect": 0,
+   "factDirect": 0,
+   "overheadRate": 18,
+   "licensesSold": 0,
+   "marginTarget": 55,
+   "alloc": [],
+   "id": "pr1795160464246"
   }
  ],
  "skus": [
@@ -17434,5 +17451,5 @@
  ],
  "selectedCfo": "all",
  "period": "2026-forecast",
- "savedAt": "2026-11-20T07:01:22.170Z"
+ "savedAt": "2026-11-20T07:42:38.024Z"
 }
